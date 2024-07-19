@@ -5,3 +5,4 @@ oliver006/redis_exporter:alpine-arm64
 oliver006/redis_exporter:v1.62.0
 prom/node-exporter:v1.8.2
 alpine:3.20.1
+mysql:8.0.32
